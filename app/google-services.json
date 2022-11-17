@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541697409981",
+    "project_id": "esan2022-adcf0",
+    "storage_bucket": "esan2022-adcf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541697409981:android:e327e771b52b04696788d4",
+        "android_client_info": {
+          "package_name": "com.example.conexionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541697409981-jub28lbm7os2orpso7qk5pdilaldgfk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD54ieCwzAtOoqS03O4R9V2E6W0xV2FGPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541697409981-jub28lbm7os2orpso7qk5pdilaldgfk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
